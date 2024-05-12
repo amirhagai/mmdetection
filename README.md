@@ -425,7 +425,7 @@ If you use this toolbox or benchmark in your research, please cite this project.
 
 ## License
 
-This project is released under the [Apache 2.0 license](LICENSE).
+This project is released under  [Apache 2.0 license](LICENSE).
 
 ## Projects in OpenMMLab
 
